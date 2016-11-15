@@ -63,7 +63,7 @@ class JFrameTest extends JFrame{
       
     public JFrameTest(){    
          this.setSize(300, 300);    
-         this.setTitle("µ¯³ö¿ò");    
+         this.setTitle("µ¯³ö¿òha");    
          this.add(jb1);  
     }    
 }    
